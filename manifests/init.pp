@@ -5,7 +5,7 @@
 #   include undercover
 
 class undercover {
-  package { 'Undercover.pkg':
+  package { 'Undercover':
     provider => 'pkgdmg',
     source   => 'http://assets.undercoverhq.com/client/5.1.2/undercover_mac.pkg'
   }
