@@ -16,5 +16,3 @@ None.
 Write code.
 
 Run `script/cibuild`.
-
-Hmm. Travis-CI doesn't appear to be picking up changes
