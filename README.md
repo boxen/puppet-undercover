@@ -1,18 +1,7 @@
 # Undercover Puppet Module for Boxen
-[![Build Status](https://travis-ci.org/boxen/puppet-undercover.png?branch=master)](https://travis-ci.org/boxen/puppet-undercover)
 
-## Usage
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-```puppet
-include undercover
-```
-
-## Required Puppet Modules
-
-None.
-
-## Developing
-
-Write code.
-
-Run `script/cibuild`.
+[1]: https://caskroom.github.io/
+[2]: https://git.io/v6NlB
