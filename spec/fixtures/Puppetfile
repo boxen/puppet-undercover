@@ -1,0 +1,4 @@
+# This is known to work...
+#mod 'boxen', '2.1.0', :github_tarball => 'boxen/puppet-boxen'
+# The following might not work
+mod 'boxen', '3.3.8', :github_tarball => 'boxen/puppet-boxen'
